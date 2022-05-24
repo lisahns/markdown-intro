@@ -9,6 +9,6 @@ markdown introduction, basic formatting https://docs.github.com/en/get-started/w
 #### You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files. 
 
 ** ** **This is bold text** <br />
-* * This text is italicized
- ~~ ~~ This was mistaken text
+* * This text is italicized <br />
+ ~~ ~~ This was mistaken text <br />
  
