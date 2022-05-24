@@ -19,6 +19,7 @@ use ' > ' for a quote <br />
  > Text that is a quote  <br />
  use backticks for a code block <br />
  `command + e for backticks`<br />
+ 
 ```To format code or text into 
 its own distinct block, 
 use triple backticks.``` <br />
