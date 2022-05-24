@@ -15,9 +15,11 @@ markdown introduction, basic formatting https://docs.github.com/en/get-started/w
  *** *** ***All this text is important***<br />
  < sub > </ sub > <sub>This is a subscript text</sub> <br />
  < sup > < /sup > <sup>This is a superscript text</sup> <br />
-use ' > ' for a quote > Text that is a quote <br />
- <br />
- <br />
- <br />
- <br />
+use ' > ' for a quote <br />
+ > Text that is a quote  <br />
+ use backticks for a code block <br />
+ `command + e for backticks`<br />
+```To format code or text into 
+its own distinct block, 
+use triple backticks.``` <br />
  
